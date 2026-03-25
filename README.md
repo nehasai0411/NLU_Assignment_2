@@ -23,6 +23,9 @@ python main.py
 
 When executed, the program will train the Vanilla RNN, BLSTM and Attention-based RNN sequentially. It will display training loss values, generate sample names from each model and compute evaluation metrics such as novelty rate and diversity. A plot comparing the training behaviour of the models will also be displayed.
 
+
+B23CM1047-A2 file has the corpus.txt and report.pdf which has all the outputs and plots
+
 The evaluation of generated names is performed using simple Python functions that calculate how many names are new compared to the training dataset and how varied the generated samples are. These metrics help in comparing the performance of different architectures.
 
 
