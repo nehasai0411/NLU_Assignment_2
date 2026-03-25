@@ -1,0 +1,15 @@
+RNN:
+
+Generated_names: ['uteni', 'uma', 'nidhara', 'chantan', 'anila', 'dalak', 'dipani', 'litini', 'eshani', 'jayu']
+Novelty 1.0 Diversity 0.965
+
+BLSTM:
+
+Generated_names: ['uteni', 'uma', 'nidhara', 'chantan', 'anila', 'dalak', 'dipani', 'litini', 'eshani', 'jayu']
+Novelty 1.0 Diversity 0.965
+
+Attention RNN:
+
+Generated_names: ['asa', 'as', 'ashi', 'asa', 'asa', 'as', 'asa', 'asa', 'ashi', 'ashi']
+Novelty 1.0 Diversity 0.03
+
