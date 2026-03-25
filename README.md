@@ -1,6 +1,6 @@
 
 
-README – How to run the assignments
+README : How to run the assignments
 
 This project contains implementations for two tasks. The first task involves learning word embeddings using Word2Vec on textual data collected from IIT Jodhpur sources. The second task focuses on character-level name generation using recurrent neural network models such as Vanilla RNN, Bidirectional LSTM and an attention-based RNN.
 
